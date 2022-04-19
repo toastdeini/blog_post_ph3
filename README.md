@@ -1,2 +1,3 @@
-# blog_post_ph3
-Materials for Phase 3 blog post - Flatiron School, Data Science - covering the basics of linear and logistic regression.
+# Regression Analysis for Amateurs (and Humanities Majors)
+
+Check out the [Jupyter notebook](Regression_for_Amateurs) in this repository for a deeper dive into the code featured in the [blog post]()!
